@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Valeria Aguilar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="" target="_blank">Valeria Aguilar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vaal/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/valeriaaguilaar)
@@ -17,8 +17,18 @@ As a programmer, I love learning new things. That's why I like to make things th
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
+- 👩🏽‍💻I’m currently working on something cool;
+- 👾 I’m currently learning Javascript and Python on [codewars](https://www.codewars.com/users/vaal96);
 - 📫 How to reach me: valeriaaguilar@live.com;
 - 📝 [Resume](https://docs.google.com/document/d/1tNQ0jwMONCCEeLH62ZTFOo9a9syCSlfQVn5OoNRa0Gk/edit?usp=sharing).
+- 💬 Reach out, I'd be happy to chat;
+
+</br>
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaal96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaal96&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
