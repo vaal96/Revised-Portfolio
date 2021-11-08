@@ -12,7 +12,7 @@ I am currently working on a full-stack developer bootcamp program through UCSD. 
 
 As a programmer, I love learning new things. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="my image" width="408" height="318" />
+<img align="right" alt="GIF" src="Keyboardillustrator.png" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
